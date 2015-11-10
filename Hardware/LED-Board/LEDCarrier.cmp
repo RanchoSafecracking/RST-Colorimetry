@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-01 BZR unknown)-product   date = 11/9/2015 22:22:47
+
+BeginCmp
+TimeStamp = /563D3C4B;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56419589;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5642041D;
+Reference = D1;
+ValeurCmp = XREWHT-L1-0000-006E5;
+IdModule  = RST-Footprints:XR-E-2-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /563D2FBF;
+Reference = IC1;
+ValeurCmp = ATTINY48-M;
+IdModule  = Housings_DFN_QFN:QFN-32-1EP_5x5mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /563D313D;
+Reference = P1;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /563D319A;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /563F706C;
+Reference = P3;
+ValeurCmp = CONN_02X05;
+IdModule  = RST-Footprints:PAD-2x5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56419BC0;
+Reference = P4;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /56419C1C;
+Reference = P5;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /56426BE2;
+Reference = P6;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5641782A;
+Reference = Q1;
+ValeurCmp = 2N7002P;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5641814A;
+Reference = Q2;
+ValeurCmp = 2N7002P;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /564207C4;
+Reference = Q3;
+ValeurCmp = NTR4003N;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /563D37A0;
+Reference = R1;
+ValeurCmp = 4700;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /563F9D05;
+Reference = R2;
+ValeurCmp = 4700;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56418993;
+Reference = R3;
+ValeurCmp = 2.2K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /564189C6;
+Reference = R4;
+ValeurCmp = 2.2K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56427B0A;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56421855;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5641727A;
+Reference = U1;
+ValeurCmp = AP2114H-3.3TRG1;
+IdModule  = RST-Footprints:SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /56416AB5;
+Reference = U2;
+ValeurCmp = VEML6040;
+IdModule  = RST-Footprints:4-TFLGA;
+EndCmp
+
+BeginCmp
+TimeStamp = /5641D222;
+Reference = U3;
+ValeurCmp = AP2114H-3.3TRG1;
+IdModule  = RST-Footprints:SOT223;
+EndCmp
+
+EndListe
