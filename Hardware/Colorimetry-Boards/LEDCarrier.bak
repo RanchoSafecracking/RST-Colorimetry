@@ -535,7 +535,7 @@ F 3 "" H 7550 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 7550 3900 1    60   Input ~ 0
-GND
+VCC
 Wire Wire Line
 	7550 3900 7550 3950
 Text Notes 9150 3000 1    59   ~ 0
